@@ -1,3 +1,7 @@
+#this code is intended to create a database of elements,
+#each with a number of data points, for comparative analysis
+#of features and elements.
+
 CREATE DATABASE TestDB;
 CREATE TABLE PeriodicTable (
   AtomNum int(3) NOT NULL,
